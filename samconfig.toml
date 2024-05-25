@@ -19,7 +19,7 @@ confirm_changeset = true
 resolve_s3 = true
 s3_prefix = "Repaso"
 region = "us-east-1"
-profile = "utez9B"
+profile = "Brandon"
 disable_rollback = true
 image_repositories = []
 
